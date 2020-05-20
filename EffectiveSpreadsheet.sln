@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EffectiveSpreadsheetReader", "EffectiveSpreadsheetReader\EffectiveSpreadsheetReader.csproj", "{851E1538-C3D1-405F-9753-9144E3A77557}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{55F46140-7366-4C16-AE0D-422945D8B67E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{851E1538-C3D1-405F-9753-9144E3A77557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{851E1538-C3D1-405F-9753-9144E3A77557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{851E1538-C3D1-405F-9753-9144E3A77557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{851E1538-C3D1-405F-9753-9144E3A77557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55F46140-7366-4C16-AE0D-422945D8B67E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55F46140-7366-4C16-AE0D-422945D8B67E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55F46140-7366-4C16-AE0D-422945D8B67E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55F46140-7366-4C16-AE0D-422945D8B67E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4821F325-A1B5-42FC-B70E-DBA232FC2165}
+	EndGlobalSection
+EndGlobal

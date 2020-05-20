@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Pri.EffectiveSpreadsheet.Reader</AssemblyName>
+    <RootNamespace>Pri.EffectiveSpreadsheet.Reader</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DocumentFormat.OpenXml" Version="2.10.1" />
+  </ItemGroup>
+
+</Project>
